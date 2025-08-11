@@ -32,7 +32,7 @@ Elle permet à des utilisateurs de s'inscrire, se connecter, créer des articles
 ```bash
 git clone https://github.com/Feriel-Barira/blog-api.git
 cd blog-api
-## 2. Installer les dépendances
+### 2. Installer les dépendances
 ```bash
 npm install
 ### 3. Créer un fichier .env
