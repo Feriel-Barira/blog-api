@@ -29,11 +29,9 @@ Elle permet à des utilisateurs de s'inscrire, se connecter, créer des articles
 ## ⚙️ Installation
 
 ### 1. Cloner le projet
-
-```bash
 git clone https://github.com/Feriel-Barira/blog-api.git
 cd blog-api
-### 2. Installer les dépendances
+## 2. Installer les dépendances
 npm install
 ### 3. Créer un fichier .env
 PORT=5000
