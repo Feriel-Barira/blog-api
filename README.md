@@ -29,13 +29,13 @@ Elle permet à des utilisateurs de s'inscrire, se connecter, créer des articles
 ## ⚙️ Installation
 
 ### 1. Cloner le projet
-#### git clone https://github.com/Feriel-Barira/blog-api.git
-#### cd blog-api
+###### git clone https://github.com/Feriel-Barira/blog-api.git
+######  cd blog-api
 ### 2. Installer les dépendances
-#### npm install
+######  npm install
 ### 3. Créer un fichier .env
-#### PORT=5000
-#### MONGODB_URI=mongodb+srv://<username>:<password>@<cluster>.mongodb.net/blog-api
-#### JWT_SECRET=tonSecretUltraSecret
+######  PORT=5000
+######  MONGODB_URI=mongodb+srv://<username>:<password>@<cluster>.mongodb.net/blog-api
+######  JWT_SECRET=tonSecretUltraSecret
 ### 4. Lancer le serveur
-#### node src/server.js
+######  node src/server.js
